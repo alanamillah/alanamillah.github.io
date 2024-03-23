@@ -404,7 +404,7 @@ document.addEventListener("DOMContentLoaded", () => {
       case 15:
         typedSlide = new Typed("#slide16", {
           strings: [
-            "Yaa dengan cara ini se aku membahagiakan sampean,, heehe,, semoga cara sederhana ini sudah bikin sampean sukaa.. Amiinnn",
+            "Yaa dengan cara ini se aku membahagiakan sampean,, heehe,, semoga cara sederhana ini bisa bikin sampean sukaa.. Amiinnn",
           ],
           typeSpeed: 50,
         });
